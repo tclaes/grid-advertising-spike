@@ -1,3 +1,7 @@
-# angular-jiydtx
+# Masonry options
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jiydtx)
+Which options are there to create a masonry 
+
+- Flexbox
+- Column layout
+- Grid
